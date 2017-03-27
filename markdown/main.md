@@ -3,6 +3,12 @@
 
 für einen erfolgreichen OpenStack-Einsatz
 
+Note: ... die folgenden 6 Regeln zu bedenken, wenn Sie OpenStack bei
+sich im Unternehmen einsetzen. Vorab: die sind nicht nach Wichtigkeit
+geordnet, und auch nicht chronologisch. Ich empfehle Ihnen, Sie alle
+als gleich wichtig zu betrachten und sie alle zu bedenken, bevor Sie
+mit einer Umsetzung loslegen.
+
 
 # 1
 
@@ -138,3 +144,11 @@ OpenStack-Einsatz hat man also folgende Optionen:
 - Junge Kolleg(inn)en fördern, die Cloud-Wissen bereits mitbringen
 - Gezielt Cloud-Wissen aufbauen
 - Externe Experten ins Team holen
+
+
+1. **Wähle deine OpenStack-Komponenten**
+2. **Wähle deine Plattform**
+3. **Wähle deine Deployment-Automatisierung**
+4. **Halte dich an Open-Source-Komponenten**
+5. **Orchestrierung ist Pflicht**
+6. **Arbeite mit Experten**
